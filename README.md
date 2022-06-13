@@ -10,3 +10,7 @@ My programming language is usually Java with IntelliJ IDEA, creating web applica
 
 ## Lead developer of Strolch
 One of my main focuses is developing [Strolch](https://strolch.li/) and [PLC](https://strolch.li/plc.html) projects.
+
+## Verifications:
+
+https://keyoxide.org/hkp/B1359C320A72A2907F1A7F7875DB9C85C74331F7
