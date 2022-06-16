@@ -13,4 +13,4 @@ One of my main focuses is developing [Strolch](https://strolch.li/) and [PLC](ht
 
 ## Verifications:
 
-https://keyoxide.org/hkp/B1359C320A72A2907F1A7F7875DB9C85C74331F7
+https://kxd.eitchnet.ch/hkp/B1359C320A72A2907F1A7F7875DB9C85C74331F7
