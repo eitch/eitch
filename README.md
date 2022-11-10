@@ -12,5 +12,5 @@ My programming language is usually Java with IntelliJ IDEA, creating web applica
 One of my main focuses is developing [Strolch](https://strolch.li/) and [PLC](https://strolch.li/plc.html) projects.
 
 ## Verifications:
-
-https://kxd.eitchnet.ch/hkp/B1359C320A72A2907F1A7F7875DB9C85C74331F7
+* https://kxd.eitchnet.ch/hkp/B1359C320A72A2907F1A7F7875DB9C85C74331F7
+* <a rel="me" href="https://mstdn.gsi.li/@eitch">Mastodon</a>
