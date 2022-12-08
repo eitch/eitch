@@ -17,6 +17,4 @@ One of my main focuses is developing [Strolch](https://strolch.li/) and [PLC](ht
 
 ## Stats
 
-https://github-readme-stats.vercel.app/api?username=eitch&count_private=true&show_icons=true&include_all_commits=true
-
-![](https://steam-stat.vercel.app/api?profileName=eitch)
+<img src="https://github-readme-stats.vercel.app/api?username=eitch&count_private=true&show_icons=true&include_all_commits=true" /> 
