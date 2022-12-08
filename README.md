@@ -1,5 +1,7 @@
 # Robert von Burg aka eitch
 
+<img src="https://github-readme-stats.vercel.app/api?username=eitch&count_private=true&show_icons=true&include_all_commits=true" /> 
+
 Check out [my website](https://www.eitchnet.ch/#/about) or [my blog](https://blog.eitchnet.ch) for more info about me.
 
 ## About me
@@ -14,7 +16,3 @@ One of my main focuses is developing [Strolch](https://strolch.li/) and [PLC](ht
 ## Verifications:
 * https://kxd.eitchnet.ch/hkp/B1359C320A72A2907F1A7F7875DB9C85C74331F7
 * <a rel="me" href="https://mstdn.gsi.li/@eitch">Mastodon</a>
-
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=eitch&count_private=true&show_icons=true&include_all_commits=true" /> 
