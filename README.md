@@ -14,3 +14,9 @@ One of my main focuses is developing [Strolch](https://strolch.li/) and [PLC](ht
 ## Verifications:
 * https://kxd.eitchnet.ch/hkp/B1359C320A72A2907F1A7F7875DB9C85C74331F7
 * <a rel="me" href="https://mstdn.gsi.li/@eitch">Mastodon</a>
+
+## Stats
+
+https://github-readme-stats.vercel.app/api?username=eitch&count_private=true&show_icons=true&include_all_commits=true
+
+![](https://steam-stat.vercel.app/api?profileName=eitch)
